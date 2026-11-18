@@ -78,7 +78,7 @@ if __name__ == '__main__':
         hue='Academic_Level',
         palette='Set2',
         markers=['o', 's', '^'],
-        linestyles=['-', '--', '-.'],
+        linestyles='none',
         capsize=0.1,
         ax=ax
     )
